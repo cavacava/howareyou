@@ -126,8 +126,8 @@
 
 .mbr-gallery .modal .close {
   position: fixed;
-  background: #transparent;
-  opacity: 0;
+  background: #black;
+  opacity: 1;
   font-size: 20px;
   font-weight: 300;
   width: 110px;
