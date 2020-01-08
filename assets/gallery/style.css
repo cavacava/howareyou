@@ -130,7 +130,7 @@
   opacity: 1;
   font-size: 20px;
   font-weight: 300;
-  width: 110px;
+  width: 70px;
   height: 70px;
   border-radius: 50%;
   color: #black;
@@ -151,7 +151,7 @@
 
 .mbr-gallery .modal .close:hover {
   opacity: 1;
-  background: #transparent;
+  background: #black;
   color: #black; }
 
 .mbr-gallery .modal-dialog {
