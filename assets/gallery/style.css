@@ -133,7 +133,7 @@
   width: 110px;
   height: 70px;
   border-radius: 50%;
-  color: #fff;
+  color: #black;
   top: 2.5rem;
   right: 2.5rem;
   line-height: 20px;
@@ -152,7 +152,7 @@
 .mbr-gallery .modal .close:hover {
   opacity: 1;
   background: #transparent;
-  color: #white; }
+  color: #black; }
 
 .mbr-gallery .modal-dialog {
   max-width: 100% !important; }
