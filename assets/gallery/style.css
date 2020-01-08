@@ -150,9 +150,9 @@
     content: '\e91a'; }
 
 .mbr-gallery .modal .close:hover {
-  opacity: 1;
+  opacity: 0;
   background: #transparent;
-  color: #fff; }
+  color: #transparent; }
 
 .mbr-gallery .modal-dialog {
   max-width: 100% !important; }
