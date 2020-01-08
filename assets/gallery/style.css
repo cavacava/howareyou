@@ -35,7 +35,7 @@
 
 .mbr-gallery .mbr-gallery-item > div:hover .icon-focus,
 .mbr-gallery .mbr-gallery-item > div:hover .icon-video {
-  opacity: 1; }
+  opacity: 0; }
 
 .mbr-gallery .mbr-gallery-item img {
   width: 100%;
@@ -55,7 +55,7 @@
 .mbr-gallery .mbr-gallery-item .icon {
   -webkit-transform: translateX(-50%) translateY(-50%);
   -webkit-transition: .2s opacity ease-in-out;
-  color: #000;
+  color: #transparent;
   font-size: 30px;
   height: 69px;
   left: 50%;
@@ -126,14 +126,14 @@
 
 .mbr-gallery .modal .close {
   position: fixed;
-  background: #1b1b1b;
-  opacity: .5;
+  background: #none;
+  opacity: 1;
   font-size: 20px;
   font-weight: 300;
-  width: 110px;
+  width: 70px;
   height: 70px;
   border-radius: 50%;
-  color: #fff;
+  color: #none;
   top: 2.5rem;
   right: 2.5rem;
   line-height: 20px;
@@ -151,8 +151,8 @@
 
 .mbr-gallery .modal .close:hover {
   opacity: 1;
-  background: #000;
-  color: #fff; }
+  background: #none;
+  color: #black; }
 
 .mbr-gallery .modal-dialog {
   max-width: 100% !important; }
