@@ -126,7 +126,7 @@
 
 .mbr-gallery .modal .close {
   position: fixed;
-  background: #black;
+  background: #none;
   opacity: 1;
   font-size: 20px;
   font-weight: 300;
@@ -151,7 +151,7 @@
 
 .mbr-gallery .modal .close:hover {
   opacity: 1;
-  background: #black;
+  background: #none;
   color: #black; }
 
 .mbr-gallery .modal-dialog {
