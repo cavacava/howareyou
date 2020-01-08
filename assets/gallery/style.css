@@ -151,7 +151,7 @@
 
 .mbr-gallery .modal .close:hover {
   opacity: 1;
-  background: #000;
+  background: #transparent;
   color: #fff; }
 
 .mbr-gallery .modal-dialog {
